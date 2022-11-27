@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Derkach Dmitry
+- 👋 Hi, I’m Derkach Dmitry
 - 👀 I’m interested in 1c program
 - 🌱 I’m законьчил обучение на 1с програмииста в онлайн университете Нетология
 - 💞️ I’m looking to collaborate по направлению разработки 1с
